@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.*
+
+# Logs & misc
+*.log
+*.bak
+*.swp
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
